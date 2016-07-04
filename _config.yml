@@ -1,0 +1,14 @@
+layout_spectrum: 0.12846763199195266
+typography_spectrum: 0.2596801819745451
+color:
+  brandStrength: 0.9588737306185067
+  lightness: 0.358794798143208
+  saturation: 0.06552339112386107
+  rhythmicContrast: 0.446681615896523
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: smartercondos
